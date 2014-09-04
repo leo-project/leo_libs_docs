@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 #
-# LeoFS documentation build configuration file, created by
+# Leo-libs documentation build configuration file, created by
 # sphinx-quickstart on Tue Feb 21 10:38:17 2012.
 #
 # This file is execfile()d with the current directory set to its containing dir.
@@ -42,7 +42,7 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = u'LeoFS'
+project = u'Leo Project/Leo libs'
 copyright = u'2012-2014, Leo Project - leo-project.net/leofs/ - Sponsored by Rakuten, Inc. and Rakuten Institute of Technology'
 
 # The version info for the project you're documenting, acts as replacement for
@@ -170,7 +170,7 @@ html_show_copyright = True
 #html_file_suffix = None
 
 # Output file base name for HTML help builder.
-htmlhelp_basename = 'LeoFSdoc'
+htmlhelp_basename = 'Leo-libs'
 
 
 # -- Options for LaTeX output --------------------------------------------------
@@ -189,7 +189,7 @@ latex_elements = {
 # Grouping the document tree into LaTeX files. List of tuples
 # (source start file, target name, title, author, documentclass [howto/manual]).
 latex_documents = [
-  ('index', 'LeoFS.tex', u'LeoFS Documentation',
+  ('index', 'Leo-libs.tex', u'Leo-libs Documentation',
    u'Leo Project', 'manual'),
 ]
 
@@ -219,7 +219,7 @@ latex_documents = [
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
 man_pages = [
-    ('index', 'aria', u'LeoFS Documentation',
+    ('index', 'aria', u'Leo-libs Documentation',
      [u'Leo Project'], 1)
 ]
 
@@ -233,8 +233,8 @@ man_pages = [
 # (source start file, target name, title, author,
 #  dir menu entry, description, category)
 texinfo_documents = [
-  ('index', 'LeoFS', u'LeoFS Documentation',
-   u'Leo Project', 'LeoFS', 'One line description of project.',
+  ('index', 'Leo-libs', u'Leo-libs Documentation',
+   u'Leo Project', 'Leo-libs', 'One line description of project.',
    'Miscellaneous'),
 ]
 
@@ -251,7 +251,7 @@ texinfo_documents = [
 # -- Options for Epub output ---------------------------------------------------
 
 # Bibliographic Dublin Core info.
-epub_title = u'LeoFS'
+epub_title = u'Leo-libs'
 epub_author = u'Leo Project'
 epub_publisher = u'Leo Project'
 epub_copyright = u'2012-2014, Leo Project'
@@ -292,7 +292,7 @@ epub_tocdepth = 3
 
 # -- PDF configuration ---------------------------------------------------------
 pdf_documents = [
-  ('index', 'LeoFS', u'LeoFS Documentation',
+  ('index', 'Leo libs', u'Leo-libs Documentation',
    u'Leo Project', 'manual'),
 ]
 

@@ -2836,12 +2836,18 @@ p {
     margin-bottom: 4px
 }
 h1 {
+    margin-top: 16px;
+    margin-bottom: 8px;
     font-size: 175%
 }
 h2 {
+    margin-top: 16px;
+    margin-bottom: 8px;
     font-size: 150%
 }
 h3 {
+    margin-top: 16px;
+    margin-bottom: 8px;
     font-size: 125%
 }
 h4 {
@@ -2861,6 +2867,11 @@ hr {
     margin: 24px 0;
     padding: 0
 }
+
+div.section {
+    margin-bottom: 16px;
+}
+
 code,.rst-content tt {
     white-space: nowrap;
     max-width: 100%;
@@ -2879,7 +2890,7 @@ code.code-large,.rst-content tt.code-large {
 .wy-plain-list-disc,.rst-content .section ul,.rst-content .toctree-wrapper ul,article ul {
     list-style: disc;
     line-height: 24px;
-    margin-bottom: 24px
+    margin-bottom: 8px
 }
 .wy-plain-list-disc li,.rst-content .section ul li,.rst-content .toctree-wrapper ul li,article ul li {
     list-style: disc;

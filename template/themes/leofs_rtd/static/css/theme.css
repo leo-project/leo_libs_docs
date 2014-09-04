@@ -1910,7 +1910,7 @@ a .fa,a .rst-content .admonition-title,.rst-content a .admonition-title,a .rst-c
     background: #e67e22
 }
 .wy-tray-container li.wy-tray-item-danger {
-    background: #e74c3c
+    background: #666699
 }
 .wy-tray-container li.on {
     opacity: 1;
@@ -2045,7 +2045,7 @@ button[disabled] {
     background-color: #295 !important
 }
 .btn-danger {
-    background-color: #e74c3c !important
+    background-color: #666699 !important
 }
 .btn-danger: hover {
     background-color: #ea6153 !important
@@ -2258,7 +2258,7 @@ input,select,textarea {
 }
 .wy-control-group.wy-control-group-required>label: after {
     content: " *";
-    color: #e74c3c
+    color: #666699
 }
 .wy-control-group .wy-form-full,.wy-control-group .wy-form-halves,.wy-control-group .wy-form-thirds {
     padding-bottom: 12px
@@ -2399,14 +2399,14 @@ input[type="text"][disabled],input[type="password"][disabled],input[type="email"
     color: #cad2d3
 }
 input: focus: invalid,textarea: focus: invalid,select: focus: invalid {
-    color: #e74c3c;
-    border: 1px solid #e74c3c
+    color: #666699;
+    border: 1px solid #666699
 }
 input: focus: invalid: focus,textarea: focus: invalid: focus,select: focus: invalid: focus {
-    border-color: #e74c3c
+    border-color: #666699
 }
 input[type="file"]: focus: invalid: focus,input[type="radio"]: focus: invalid: focus,input[type="checkbox"]: focus: invalid: focus {
-    outline-color: #e74c3c
+    outline-color: #666699
 }
 input.wy-input-large {
     padding: 12px;
@@ -2476,13 +2476,13 @@ select[disabled],textarea[disabled],input[readonly],select[readonly],textarea[re
     border-right: 0
 }
 .wy-control-group.wy-control-group-error .wy-form-message,.wy-control-group.wy-control-group-error>label {
-    color: #e74c3c
+    color: #666699
 }
 .wy-control-group.wy-control-group-error input[type="text"],.wy-control-group.wy-control-group-error input[type="password"],.wy-control-group.wy-control-group-error input[type="email"],.wy-control-group.wy-control-group-error input[type="url"],.wy-control-group.wy-control-group-error input[type="date"],.wy-control-group.wy-control-group-error input[type="month"],.wy-control-group.wy-control-group-error input[type="time"],.wy-control-group.wy-control-group-error input[type="datetime"],.wy-control-group.wy-control-group-error input[type="datetime-local"],.wy-control-group.wy-control-group-error input[type="week"],.wy-control-group.wy-control-group-error input[type="number"],.wy-control-group.wy-control-group-error input[type="search"],.wy-control-group.wy-control-group-error input[type="tel"],.wy-control-group.wy-control-group-error input[type="color"] {
-    border: solid 1px #e74c3c
+    border: solid 1px #666699
 }
 .wy-control-group.wy-control-group-error textarea {
-    border: solid 1px #e74c3c
+    border: solid 1px #666699
 }
 .wy-inline-validate {
     white-space: nowrap
@@ -2496,7 +2496,7 @@ select[disabled],textarea[disabled],input[readonly],select[readonly],textarea[re
     color: #27ae60
 }
 .wy-inline-validate.wy-inline-validate-danger .wy-input-context {
-    color: #e74c3c
+    color: #666699
 }
 .wy-inline-validate.wy-inline-validate-warning .wy-input-context {
     color: #e67e22
@@ -2812,7 +2812,7 @@ a.wy-text-success: hover {
     color: #36d278 !important
 }
 .wy-text-danger {
-    color: #e74c3c !important
+    color: #666699 !important
 }
 a.wy-text-danger: hover {
     color: #ed7669 !important
@@ -2832,7 +2832,8 @@ p {
     line-height: 24px;
     margin: 0;
     font-size: 16px;
-    margin-bottom: 24px
+    margin-top: 4px;
+    margin-bottom: 4px
 }
 h1 {
     font-size: 175%
@@ -2864,12 +2865,12 @@ code,.rst-content tt {
     white-space: nowrap;
     max-width: 100%;
     background: #fff;
-    border: solid 1px #e1e4e5;
-    color: #c7254e;
+    border: solid 0px #e1e4e5;
+    /* color: #c7254e; */
     font-size: 80%;
     padding: 3px 3px 3px 3px;
     font-family: Consolas,"Andale Mono WT","Andale Mono","Lucida Console","Lucida Sans Typewriter","DejaVu Sans Mono","Bitstream Vera Sans Mono","Liberation Mono","Nimbus Mono L",Monaco,"Courier New",Courier,monospace;
-    color: #e74c3c;
+    color: #666699;
     overflow-x: auto
 }
 code.code-large,.rst-content tt.code-large {
@@ -3660,7 +3661,7 @@ nav.stickynav {
     float: left
 }
 .rst-versions .rst-current-version.rst-out-of-date {
-    background-color: #e74c3c;
+    background-color: #666699;
     color: #fff
 }
 .rst-versions .rst-current-version.rst-active-old-version {

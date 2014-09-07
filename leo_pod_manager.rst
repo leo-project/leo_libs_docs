@@ -7,7 +7,7 @@ leo\_pod\_manager
 
 leo\_pod\_manager can manage worker pools in the pod.
 
-**Behaviours:** ```gen_server`` <gen_server.html>`__.
+**Behaviours:** |gen_server|
 
 **References**
 
@@ -46,7 +46,9 @@ Function Index
 +-------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------+
 | `start\_link/6 <#start_link-6>`__         | Initialize a wooker pool.                                                                                                                |
 +-------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------+
-| `status/1 <#status-1>`__                  | Retrieve the current status in pretty format as follows: format: { working\_process\_count, worker\_process\_count, overflow\_count }.   |
+| `status/1 <#status-1>`__                  | Retrieve the current status in pretty format as follows:                                                                                 |
+|                                           |                                                                                                                                          |
+|                                           | format: { working\_process\_count, worker\_process\_count, overflow\_count }.                                                            |
 +-------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------+
 | `stop/1 <#stop-1>`__                      | Stop the worker pool.                                                                                                                    |
 +-------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------+
@@ -175,8 +177,9 @@ status/1
 -  ``NumOfWating = non_neg_integer()``
 -  ``NumOfRoomForOverflow = non_neg_integer()``
 
-Retrieve the current status in pretty format as follows: format: {
-working\_process\_count, worker\_process\_count, overflow\_count }
+Retrieve the current status in pretty format as follows:
+
+format: { working\_process\_count, worker\_process\_count, overflow\_count }
 
 stop/1
 ~~~~~~
@@ -198,3 +201,8 @@ Description: This function is called by a gen\_server when it is about
 to terminate. It should be the opposite of Module:init/1 and do any
 necessary cleaning up. When it returns, the gen\_server terminates with
 Reason. The return value is ignored.
+
+
+.. |gen_server| raw:: html
+
+    <a href="http://www.erlang.org/doc/man/gen_server.html" target="_blank">gen_server</a>

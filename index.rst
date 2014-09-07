@@ -11,8 +11,8 @@ Leo Libs Documentation
 .. toctree::
    :maxdepth: 2
 
-   leo_commons_toc
    leo_backend_db_toc
+   leo_commons_toc
    leo_mq_toc
    leo_pod_toc
    leo_rpc_toc

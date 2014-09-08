@@ -9,6 +9,13 @@ leo_rpc
 .. toctree::
    :maxdepth: 3
 
+   leo_rpc
+   leo_rpc_client_conn
+   leo_rpc_client_manager
+   leo_rpc_client_utils
+   leo_rpc_protocol
+   leo_rpc_server
+   leo_rpc_server_listener
 
 
 .. |leo_rpc| raw:: html

@@ -78,25 +78,25 @@
 
   <!-- Header -->
   <div>
-  <header id="header-section" class="row" role="navigation">
-    <div class="header-content">
-      <a class="fa fa-bars expand-toc-icon pull-left" href="#"></a>
-      <div class="logo pull-left" style="width:180px;">
-        <a href="../index.html">
-          <img src="_static/images/leofs-logo-wht-1.png" alt="LeoFS">
-        </a>
-      </div>
-      <div>
-        <div class="nav-items">
-          <a href="../docs/getting_started.html">Getting Started</a>
-          <a href="../download.html">Downloads</a>
-          <a href="../docs/index.html">Docs</a>
-          <a href="../blog.html">Blog</a>
-          <a href="faq.html">FAQ</a>
+    <header id="header-section" class="row" role="navigation">
+      <div class="header-content">
+        <a class="fa fa-bars expand-toc-icon pull-left" href="#"></a>
+        <div class="logo pull-left" style="width:180px;">
+          <a href="{{ pathto('../index.html', 1) }}">
+            <img src="{{ pathto('_static/images/leofs-logo-wht-1.png', 1) }}" alt="LeoFS"/>
+          </a>
+        </div>
+        <div>
+          <div class="nav-items">
+            <a href="{{ pathto('../docs/getting_started.html', 1)}}">Getting Started</a>
+            <a href="{{ pathto('../download.html',             1)}}">Downloads</a>
+            <a href="{{ pathto('../docs/index.html',           1)}}">Docs</a>
+            <a href="{{ pathto('../blog.html',                 1)}}">Blog</a>
+            <a href="{{ pathto('../docs/faq.html',             1)}}">FAQ</a>
+          </div>
         </div>
       </div>
-    </div>
-  </header>
+    </header>
   </div>
 
   <div class="wy-grid-for-nav">

@@ -16,4 +16,5 @@ Leo Libs Documentation
    leo_mq/leo_mq_toc
    leo_object_storage/leo_object_storage_toc
    leo_pod/leo_pod_toc
+   leo_redundant_manager/leo_redundant_manager_toc
    leo_rpc/leo_rpc_toc

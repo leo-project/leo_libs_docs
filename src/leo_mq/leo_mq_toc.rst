@@ -8,7 +8,8 @@ leo_mq
 .. toctree::
    :maxdepth: 3
 
-
+   leo_mq_api
+   leo_mq_server
 
 .. |leo_mq| raw:: html
 

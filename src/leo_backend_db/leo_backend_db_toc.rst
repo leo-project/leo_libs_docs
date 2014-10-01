@@ -8,6 +8,11 @@ leo_backend_db
 .. toctree::
    :maxdepth: 3
 
+   leo_backend_db_api
+   leo_backend_db_bitcask
+   leo_backend_db_eleveldb
+   leo_backend_db_ets
+   leo_backend_db_server
 
 
 .. |leo_backend_db| raw:: html

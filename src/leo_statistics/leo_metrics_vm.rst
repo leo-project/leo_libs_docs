@@ -12,7 +12,7 @@ The metrics of Erlang VM's statistics.
 
 **References**
 
--  ```https://github.com/leo-project/leo_statistics/blob/master/src/leo_metrics_vm.erl`` <https://github.com/leo-project/leo_statistics/blob/master/src/leo_metrics_vm.erl>`__
+-  https://github.com/leo-project/leo\_statistics/blob/master/src/leo\_metrics\_vm.erl
 
 Description
 -----------

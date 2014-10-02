@@ -9,7 +9,7 @@ The SNMP manager.
 
 **References**
 
--  ```https://github.com/leo-project/leo_statistics/blob/master/src/leo_statistics_snmpm.erl`` <https://github.com/leo-project/leo_statistics/blob/master/src/leo_statistics_snmpm.erl>`__
+-  https://github.com/leo-project/leo\_statistics/blob/master/src/leo\_statistics\_snmpm.erl
 
 Description
 -----------

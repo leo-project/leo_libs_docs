@@ -11,7 +11,7 @@ The SNMP manager's operation.
 
 **References**
 
--  ```https://github.com/leo-project/leo_statistics/blob/master/src/leo_statistics_user.erl`` <https://github.com/leo-project/leo_statistics/blob/master/src/leo_statistics_user.erl>`__
+-  https://github.com/leo-project/leo\_statistics/blob/master/src/leo\_statistics\_user.erl
 
 Description
 -----------

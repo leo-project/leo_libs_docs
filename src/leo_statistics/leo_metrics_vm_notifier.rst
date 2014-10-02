@@ -12,7 +12,7 @@ The notifier of Erlang VM's metrics.
 
 **References**
 
--  ```https://github.com/leo-project/leo_statistics/blob/master/src/leo_statistics_sampler.erl`` <https://github.com/leo-project/leo_statistics/blob/master/src/leo_statistics_sampler.erl>`__
+-  https://github.com/leo-project/leo\_statistics/blob/master/src/leo\_statistics\_sampler.erl
 
 Description
 -----------

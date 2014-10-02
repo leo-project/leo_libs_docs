@@ -12,7 +12,7 @@ The metrics of request.
 
 **References**
 
--  ```https://github.com/leo-project/leo_statistics/blob/master/src/leo_metrics_req.erl`` <https://github.com/leo-project/leo_statistics/blob/master/src/leo_metrics_req.erl>`__
+-  https://github.com/leo-project/leo\_statistics/blob/master/src/leo\_metrics\_req.erl
 
 Description
 -----------

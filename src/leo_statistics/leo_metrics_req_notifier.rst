@@ -12,7 +12,7 @@ The notifier of request metrics.
 
 **References**
 
--  ```https://github.com/leo-project/leo_statistics/blob/master/src/leo_metrics_req_notifier.erl`` <https://github.com/leo-project/leo_statistics/blob/master/src/leo_metrics_req_notifier.erl>`__
+-  https://github.com/leo-project/leo\_statistics/blob/master/src/leo\_metrics\_req\_notifier.erl
 
 Description
 -----------

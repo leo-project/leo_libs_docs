@@ -7,10 +7,14 @@ leo\_date
 
 leo\_date is utilities for date processing.
 
+**References**
+
+-  ```https://github.com/leo-project/leo_commons/blob/master/src/leo_date.erl`` <https://github.com/leo-project/leo_commons/blob/master/src/leo_date.erl>`__
+
 Description
 -----------
 
-leo\_date is utilities for date processing
+leo\_date is utilities for date processing.
 
 Function Index
 --------------

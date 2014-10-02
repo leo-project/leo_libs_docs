@@ -7,6 +7,10 @@ leo\_hex
 
 leo\_hex is utilities for calculation of hexadecimal.
 
+**References**
+
+-  ```https://github.com/leo-project/leo_commons/blob/master/src/leo_hex.erl`` <https://github.com/leo-project/leo_commons/blob/master/src/leo_hex.erl>`__
+
 Description
 -----------
 

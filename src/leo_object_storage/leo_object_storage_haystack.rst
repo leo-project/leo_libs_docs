@@ -9,7 +9,7 @@ The object storage implementation - haystack.
 
 **References**
 
--  ```https://github.com/leo-project/leo_object_storage/blob/master/src/leo_object_storage_haystack.erl`` <https://github.com/leo-project/leo_object_storage/blob/master/src/leo_object_storage_haystack.erl>`__
+-  https://github.com/leo-project/leo\_object\_storage/blob/master/src/leo\_object\_storage\_haystack.erl
 
 Description
 -----------

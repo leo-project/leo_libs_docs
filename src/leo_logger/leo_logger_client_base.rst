@@ -19,15 +19,17 @@ The base of logger client
 Function Index
 --------------
 
-+----------------------------+------------------------------------+
-| `append/1 <#append-1>`__   | Append a message to a file.        |
-+----------------------------+------------------------------------+
-| `format/2 <#format-2>`__   | Format a log message.              |
-+----------------------------+------------------------------------+
-| `new/4 <#new-4>`__         | Create loggers for message logs.   |
-+----------------------------+------------------------------------+
-| `sync/1 <#sync-1>`__       | Sync a log file.                   |
-+----------------------------+------------------------------------+
++---------------------------------------------+------------------------------------+
+| `append/1 <#append-1>`__                    | Append a message to a file.        |
++---------------------------------------------+------------------------------------+
+| `force\_rotation/1 <#force_rotation-1>`__   | Force log-rotation.                |
++---------------------------------------------+------------------------------------+
+| `format/2 <#format-2>`__                    | Format a log message.              |
++---------------------------------------------+------------------------------------+
+| `new/4 <#new-4>`__                          | Create loggers for message logs.   |
++---------------------------------------------+------------------------------------+
+| `sync/1 <#sync-1>`__                        | Sync a log file.                   |
++---------------------------------------------+------------------------------------+
 
 Function Details
 ----------------
@@ -40,6 +42,15 @@ append/1
 -  ``LogInfo = {atom(), #message_log{}}``
 
 Append a message to a file
+
+force\_rotation/1
+~~~~~~~~~~~~~~~~~
+
+``force_rotation(LogId) -> ok | {error, term()}``
+
+-  ``LogId = atom()``
+
+Force log-rotation
 
 format/2
 ~~~~~~~~
@@ -68,6 +79,6 @@ sync/1
 
 ``sync(LogId) -> ok | {error, term()}``
 
--  ``LogId = atom | #logger_state{}``
+-  ``LogId = atom() | #logger_state{}``
 
 Sync a log file

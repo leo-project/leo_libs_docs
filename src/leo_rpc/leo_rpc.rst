@@ -10,7 +10,7 @@ Erlang's buildin RPC.
 
 **References**
 
--  https://github.com/leo-project/leo_rpc/blob/develop/master/leo_rpc.erl
+-  ```https://github.com/leo-project/leo_rpc/blob/develop/master/leo_rpc.erl`` <https://github.com/leo-project/leo_rpc/blob/develop/master/leo_rpc.erl>`__
 
 Description
 -----------

@@ -11,7 +11,7 @@ The object storage server.
 
 **References**
 
--  ```https://github.com/leo-project/leo_object_storage/blob/master/src/leo_object_storage_server.erl`` <https://github.com/leo-project/leo_object_storage/blob/master/src/leo_object_storage_server.erl>`__
+-  https://github.com/leo-project/leo\_object\_storage/blob/master/src/leo\_object\_storage\_server.erl
 
 Description
 -----------

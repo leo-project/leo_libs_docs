@@ -7,6 +7,10 @@ leo\_math
 
 leo\_math is utilities for calculation.
 
+**References**
+
+-  ```https://github.com/leo-project/leo_commons/blob/master/src/leo_math.erl`` <https://github.com/leo-project/leo_commons/blob/master/src/leo_math.erl>`__
+
 Description
 -----------
 

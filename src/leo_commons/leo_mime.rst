@@ -7,6 +7,10 @@ leo\_mime
 
 leo\_mime is utilities for retrieving mime-type from path.
 
+**References**
+
+-  ```https://github.com/leo-project/leo_commons/blob/master/src/leo_mime.erl`` <https://github.com/leo-project/leo_commons/blob/master/src/leo_mime.erl>`__
+
 Description
 -----------
 

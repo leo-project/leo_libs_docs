@@ -7,6 +7,10 @@ leo\_mnesia
 
 leo\_mnesia is utilities for mnesia operation.
 
+**References**
+
+-  ```https://github.com/leo-project/leo_commons/blob/master/src/leo_mnesia.erl`` <https://github.com/leo-project/leo_commons/blob/master/src/leo_mnesia.erl>`__
+
 Description
 -----------
 

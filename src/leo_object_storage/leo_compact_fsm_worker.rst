@@ -12,7 +12,7 @@ objects from a object container.
 
 **References**
 
--  ```https://github.com/leo-project/leo_object_storage/blob/master/src/leo_compact_fsm_controller.erl`` <https://github.com/leo-project/leo_object_storage/blob/master/src/leo_compact_fsm_controller.erl>`__
+-  https://github.com/leo-project/leo\_object\_storage/blob/master/src/leo\_compact\_fsm\_controller.erl
 
 Description
 -----------

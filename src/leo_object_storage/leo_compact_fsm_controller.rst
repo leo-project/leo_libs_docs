@@ -12,7 +12,7 @@ data-compaction's workers.
 
 **References**
 
--  ```https://github.com/leo-project/leo_object_storage/blob/master/src/leo_compact_fsm_controller.erl`` <https://github.com/leo-project/leo_object_storage/blob/master/src/leo_compact_fsm_controller.erl>`__
+-  https://github.com/leo-project/leo\_object\_storage/blob/master/src/leo\_compact\_fsm\_controller.erl
 
 Description
 -----------
@@ -28,7 +28,7 @@ Function Index
 +----------------------------------------------------+---------------------------------------------------------------------------------------------------------------------------+
 | `diagnose/0 <#diagnose-0>`__                       | Request diagnosing data-compaction to the data-compaction's workers.                                                      |
 +----------------------------------------------------+---------------------------------------------------------------------------------------------------------------------------+
-| `finish/2 <#finish-2>`__                           | Terminate a child.                                                                                                        |
+| `finish/3 <#finish-3>`__                           | Terminate a child.                                                                                                        |
 +----------------------------------------------------+---------------------------------------------------------------------------------------------------------------------------+
 | `format\_status/2 <#format_status-2>`__            | This function is called by a gen\_fsm when it should update its internal state data during a release upgrade/downgrade.   |
 +----------------------------------------------------+---------------------------------------------------------------------------------------------------------------------------+
@@ -48,7 +48,13 @@ Function Index
 +----------------------------------------------------+---------------------------------------------------------------------------------------------------------------------------+
 | `resume/0 <#resume-0>`__                           | Request 'resume compaction' to the data-compaction's workers.                                                             |
 +----------------------------------------------------+---------------------------------------------------------------------------------------------------------------------------+
-| `run/3 <#run-3>`__                                 | Request launch of data-compaction to the data-compaction's workers.                                                       |
+| `run/0 <#run-0>`__                                 | Request launch of data-compaction to the data-compaction's workers.                                                       |
++----------------------------------------------------+---------------------------------------------------------------------------------------------------------------------------+
+| `run/1 <#run-1>`__                                 |                                                                                                                           |
++----------------------------------------------------+---------------------------------------------------------------------------------------------------------------------------+
+| `run/2 <#run-2>`__                                 |                                                                                                                           |
++----------------------------------------------------+---------------------------------------------------------------------------------------------------------------------------+
+| `run/3 <#run-3>`__                                 |                                                                                                                           |
 +----------------------------------------------------+---------------------------------------------------------------------------------------------------------------------------+
 | `running/2 <#running-2>`__                         | State of 'running'.                                                                                                       |
 +----------------------------------------------------+---------------------------------------------------------------------------------------------------------------------------+
@@ -86,13 +92,14 @@ diagnose/0
 
 Request diagnosing data-compaction to the data-compaction's workers
 
-finish/2
+finish/3
 ~~~~~~~~
 
-``finish(Pid, FinishedId) -> term()``
+``finish(Pid, FinishedId, AccErrors) -> term()``
 
 -  ``Pid = pid()``
 -  ``FinishedId = atom()``
+-  ``AccErrors = [{pos_integer(), pos_integer()}]``
 
 Terminate a child
 
@@ -172,6 +179,28 @@ resume/0
 
 Request 'resume compaction' to the data-compaction's workers
 
+run/0
+~~~~~
+
+| ``run() -> term()``
+
+Request launch of data-compaction to the data-compaction's workers
+
+run/1
+~~~~~
+
+``run(MaxConn) -> term()``
+
+-  ``MaxConn = pos_integer()``
+
+run/2
+~~~~~
+
+``run(MaxConn, CallbackFun) -> term()``
+
+-  ``MaxConn = pos_integer()``
+-  ``CallbackFun = function()``
+
 run/3
 ~~~~~
 
@@ -180,8 +209,6 @@ run/3
 -  ``TargetPids = [pid() | atom()]``
 -  ``MaxConn = pos_integer()``
 -  ``CallbackFun = function()``
-
-Request launch of data-compaction to the data-compaction's workers
 
 running/2
 ~~~~~~~~~

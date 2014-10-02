@@ -7,6 +7,10 @@ leo\_http
 
 leo\_http is utilities for HTTP and S3-API.
 
+**References**
+
+-  ```https://github.com/leo-project/leo_commons/blob/master/src/leo_http.erl`` <https://github.com/leo-project/leo_commons/blob/master/src/leo_http.erl>`__
+
 Description
 -----------
 

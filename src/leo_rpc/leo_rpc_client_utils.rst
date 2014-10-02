@@ -9,7 +9,7 @@ leo\_rpc\_client\_utils is a utility module.
 
 **References**
 
-- https://github.com/leo-project/leo_rpc/blob/master/src/leo_rpc_client_utils
+-  ```https://github.com/leo-project/leo_rpc/blob/master/src/leo_rpc_client_utils`` <https://github.com/leo-project/leo_rpc/blob/master/src/leo_rpc_client_utils>`__
 
 Description
 -----------

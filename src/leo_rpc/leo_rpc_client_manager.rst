@@ -7,11 +7,11 @@ leo\_rpc\_client\_manager
 
 leo\_rpc\_client\_conn\_manager manages rpc-clients.
 
-**Behaviours:** |gen_server|
+**Behaviours:** ```gen_server`` <gen_server.html>`__.
 
 **References**
 
--  https://github.com/leo-project/leo_rpc/blob/master/src/leo_rpc_client_manager
+-  ```https://github.com/leo-project/leo_rpc/blob/master/src/leo_rpc_client_manager`` <https://github.com/leo-project/leo_rpc/blob/master/src/leo_rpc_client_manager>`__
 
 Description
 -----------
@@ -151,8 +151,3 @@ terminate/2
 ``terminate(Reason, State) -> any()``
 
 gen\_server callback - Module:terminate(Reason, State)
-
-
-.. |gen_server| raw:: html
-
-    <a href="http://www.erlang.org/doc/man/gen_server.html" target="_blank">gen_server</a>

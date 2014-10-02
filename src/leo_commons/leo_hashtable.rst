@@ -7,6 +7,10 @@ leo\_hashtable
 
 leo\_hashtable is utilities for storing value as key-value in memory.
 
+**References**
+
+-  ```https://github.com/leo-project/leo_commons/blob/master/src/leo_hashtable.erl`` <https://github.com/leo-project/leo_commons/blob/master/src/leo_hashtable.erl>`__
+
 Description
 -----------
 

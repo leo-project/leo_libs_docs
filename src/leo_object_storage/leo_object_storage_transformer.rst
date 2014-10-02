@@ -9,7 +9,7 @@ The object storage's data transformer.
 
 **References**
 
--  ```https://github.com/leo-project/leo_object_storage/blob/master/src/leo_object_storage_transformer.erl`` <https://github.com/leo-project/leo_object_storage/blob/master/src/leo_object_storage_transformer.erl>`__
+-  https://github.com/leo-project/leo\_object\_storage/blob/master/src/leo\_object\_storage\_transformer.erl
 
 Description
 -----------

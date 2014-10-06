@@ -12,7 +12,7 @@ tree.
 
 **References**
 
--  ```https://github.com/leo-project/leo_mq/blob/master/src/leo_mq_server.erl`` <https://github.com/leo-project/leo_mq/blob/master/src/leo_mq_server.erl>`__
+-  https://github.com/leo-project/leo\_mq/blob/master/src/leo\_mq\_server.erl
 
 Description
 -----------

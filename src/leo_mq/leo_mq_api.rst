@@ -9,7 +9,7 @@ leo\_mq's API.
 
 **References**
 
--  ```https://github.com/leo-project/leo_mq/blob/master/src/leo_mq_api.erl`` <https://github.com/leo-project/leo_mq/blob/master/src/leo_mq_api.erl>`__
+-  https://github.com/leo-project/leo\_mq/blob/master/src/leo\_mq\_api.erl
 
 Description
 -----------

@@ -9,7 +9,7 @@ leo\_misc is miscellaneous utilities.
 
 **References**
 
--  ```https://github.com/leo-project/leo_commons/blob/master/src/leo_misc.erl`` <https://github.com/leo-project/leo_commons/blob/master/src/leo_misc.erl>`__
+-  https://github.com/leo-project/leo\_commons/blob/master/src/leo\_misc.erl
 
 Description
 -----------

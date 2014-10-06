@@ -9,7 +9,7 @@ leo\_hashtable is utilities for storing value as key-value in memory.
 
 **References**
 
--  ```https://github.com/leo-project/leo_commons/blob/master/src/leo_hashtable.erl`` <https://github.com/leo-project/leo_commons/blob/master/src/leo_hashtable.erl>`__
+-  https://github.com/leo-project/leo\_commons/blob/master/src/leo\_hashtable.erl
 
 Description
 -----------

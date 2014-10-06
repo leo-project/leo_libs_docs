@@ -9,7 +9,7 @@ leo\_file is utilities for file processing.
 
 **References**
 
--  ```https://github.com/leo-project/leo_commons/blob/master/src/leo_file.erl`` <https://github.com/leo-project/leo_commons/blob/master/src/leo_file.erl>`__
+-  https://github.com/leo-project/leo\_commons/blob/master/src/leo\_file.erl
 
 Description
 -----------

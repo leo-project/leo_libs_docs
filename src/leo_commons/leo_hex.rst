@@ -9,7 +9,7 @@ leo\_hex is utilities for calculation of hexadecimal.
 
 **References**
 
--  ```https://github.com/leo-project/leo_commons/blob/master/src/leo_hex.erl`` <https://github.com/leo-project/leo_commons/blob/master/src/leo_hex.erl>`__
+-  https://github.com/leo-project/leo\_commons/blob/master/src/leo\_hex.erl
 
 Description
 -----------

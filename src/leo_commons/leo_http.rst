@@ -9,7 +9,7 @@ leo\_http is utilities for HTTP and S3-API.
 
 **References**
 
--  ```https://github.com/leo-project/leo_commons/blob/master/src/leo_http.erl`` <https://github.com/leo-project/leo_commons/blob/master/src/leo_http.erl>`__
+-  https://github.com/leo-project/leo\_commons/blob/master/src/leo\_http.erl
 
 Description
 -----------

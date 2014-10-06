@@ -9,7 +9,7 @@ leo\_date is utilities for date processing.
 
 **References**
 
--  ```https://github.com/leo-project/leo_commons/blob/master/src/leo_date.erl`` <https://github.com/leo-project/leo_commons/blob/master/src/leo_date.erl>`__
+-  https://github.com/leo-project/leo\_commons/blob/master/src/leo\_date.erl
 
 Description
 -----------

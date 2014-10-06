@@ -95,11 +95,11 @@ Request diagnosing data-compaction to the data-compaction's workers
 finish/3
 ~~~~~~~~
 
-``finish(Pid, FinishedId, AccErrors) -> term()``
+``finish(Pid, FinishedId, Report) -> term()``
 
 -  ``Pid = pid()``
 -  ``FinishedId = atom()``
--  ``AccErrors = [{pos_integer(), pos_integer()}]``
+-  ``Report = #compaction_report{}``
 
 Terminate a child
 

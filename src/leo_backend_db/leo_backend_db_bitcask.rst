@@ -9,7 +9,7 @@ Handling database operation for bitcask.
 
 **References**
 
--  ```https://github.com/leo-project/leo_backend_db/blob/master/src/leo_backend_db_bitcask.erl`` <https://github.com/leo-project/leo_backend_db/blob/master/src/leo_backend_db_bitcask.erl>`__
+-  https://github.com/leo-project/leo\_backend\_db/blob/master/src/leo\_backend\_db\_bitcask.erl
 
 Description
 -----------

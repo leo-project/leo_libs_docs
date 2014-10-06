@@ -9,7 +9,7 @@ leo\_backend\_db's API.
 
 **References**
 
--  ```https://github.com/leo-project/leo_backend_db/blob/master/src/leo_backend_db_api.erl`` <https://github.com/leo-project/leo_backend_db/blob/master/src/leo_backend_db_api.erl>`__
+-  https://github.com/leo-project/leo\_backend\_db/blob/master/src/leo\_backend\_db\_api.erl
 
 Description
 -----------

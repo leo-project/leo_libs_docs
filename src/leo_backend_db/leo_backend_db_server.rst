@@ -12,7 +12,7 @@ supervision tree.
 
 **References**
 
--  ```https://github.com/leo-project/leo_backend_db/blob/master/src/leo_backend_db_server.erl`` <https://github.com/leo-project/leo_backend_db/blob/master/src/leo_backend_db_server.erl>`__
+-  https://github.com/leo-project/leo\_backend\_db/blob/master/src/leo\_backend\_db\_server.erl
 
 Description
 -----------

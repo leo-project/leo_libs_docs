@@ -11,7 +11,7 @@ The memory-cache server.
 
 **References**
 
--  ```https://github.com/leo-project/leo_cache/blob/master/src/leo_cache_server_mcerl.erl`` <https://github.com/leo-project/leo_cache/blob/master/src/leo_cache_server_mcerl.erl>`__
+-  https://github.com/leo-project/leo\_cache/blob/master/src/leo\_cache\_server\_mcerl.erl
 
 Description
 -----------

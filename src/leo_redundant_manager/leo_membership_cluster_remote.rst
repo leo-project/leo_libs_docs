@@ -11,7 +11,7 @@ The membership operation with remote-cluster(s).
 
 **References**
 
--  ```https://github.com/leo-project/leo_redundant_manager/blob/master/src/leo_membership_cluster_remote.erl`` <https://github.com/leo-project/leo_redundant_manager/blob/master/src/leo_membership_cluster_remote.erl>`__
+-  https://github.com/leo-project/leo\_redundant\_manager/blob/master/src/leo\_membership\_cluster\_remote.erl
 
 Description
 -----------

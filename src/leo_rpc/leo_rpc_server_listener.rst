@@ -9,7 +9,7 @@ leo\_rpc\_server\_listener is a rpc-server's listener.
 
 **References**
 
--  ```https://github.com/leo-project/leo_rpc/blob/master/src/leo_rpc_server_listener.erl`` <https://github.com/leo-project/leo_rpc/blob/master/src/leo_rpc_server_listener.erl>`__
+-  https://github.com/leo-project/leo\_rpc/blob/master/src/leo\_rpc\_server\_listener.erl
 
 Description
 -----------

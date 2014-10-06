@@ -9,7 +9,7 @@ The multi-datacenter cluster status talble's operation.
 
 **References**
 
--  ```https://github.com/leo-project/leo_redundant_manager/blob/master/src/leo_mdcr_tbl_cluster_stat.erl`` <https://github.com/leo-project/leo_redundant_manager/blob/master/src/leo_mdcr_tbl_cluster_stat.erl>`__
+-  https://github.com/leo-project/leo\_redundant\_manager/blob/master/src/leo\_mdcr\_tbl\_cluster\_stat.erl
 
 Description
 -----------

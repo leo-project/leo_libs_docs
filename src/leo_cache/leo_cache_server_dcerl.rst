@@ -11,7 +11,7 @@ The disc-cache server.
 
 **References**
 
--  ```https://github.com/leo-project/leo_cache/blob/master/src/leo_cache_server_dcerl.erl`` <https://github.com/leo-project/leo_cache/blob/master/src/leo_cache_server_dcerl.erl>`__
+-  https://github.com/leo-project/leo\_cache/blob/master/src/leo\_cache\_server\_dcerl.erl
 
 Description
 -----------

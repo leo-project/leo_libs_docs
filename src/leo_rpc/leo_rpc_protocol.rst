@@ -9,7 +9,7 @@ leo\_rpc\_protocol handles requested data with the protocol.
 
 **References**
 
--  ```https://github.com/leo-project/leo_rpc/blob/master/src/leo_rpc_protocol.erl`` <https://github.com/leo-project/leo_rpc/blob/master/src/leo_rpc_protocol.erl>`__
+-  https://github.com/leo-project/leo\_rpc/blob/master/src/leo\_rpc\_protocol.erl
 
 Description
 -----------

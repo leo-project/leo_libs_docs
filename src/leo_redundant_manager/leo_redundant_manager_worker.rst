@@ -11,7 +11,7 @@ The redundant manager's worker process.
 
 **References**
 
--  ```https://github.com/leo-project/leo_redundant_manager/blob/master/src/leo_redundant_manager_worker.erl`` <https://github.com/leo-project/leo_redundant_manager/blob/master/src/leo_redundant_manager_worker.erl>`__
+-  https://github.com/leo-project/leo\_redundant\_manager/blob/master/src/leo\_redundant\_manager\_worker.erl
 
 Description
 -----------

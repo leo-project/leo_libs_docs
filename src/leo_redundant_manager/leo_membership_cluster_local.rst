@@ -11,7 +11,7 @@ The membership operation in the local-cluster.
 
 **References**
 
--  ```https://github.com/leo-project/leo_redundant_manager/blob/master/src/leo_membership_cluster_local.erl`` <https://github.com/leo-project/leo_redundant_manager/blob/master/src/leo_membership_cluster_local.erl>`__
+-  https://github.com/leo-project/leo\_redundant\_manager/blob/master/src/leo\_membership\_cluster\_local.erl
 
 Description
 -----------

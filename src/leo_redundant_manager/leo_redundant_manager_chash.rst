@@ -9,7 +9,7 @@ The consistent-hashing implementation.
 
 **References**
 
--  ```https://github.com/leo-project/leo_redundant_manager/blob/master/src/leo_redundant_manager_chash.erl`` <https://github.com/leo-project/leo_redundant_manager/blob/master/src/leo_redundant_manager_chash.erl>`__
+-  https://github.com/leo-project/leo\_redundant\_manager/blob/master/src/leo\_redundant\_manager\_chash.erl
 
 Description
 -----------

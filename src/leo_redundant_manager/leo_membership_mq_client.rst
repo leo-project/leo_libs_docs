@@ -12,7 +12,7 @@ The membership operation's messsage-queues client.
 
 **References**
 
--  ```https://github.com/leo-project/leo_redundant_manager/blob/master/src/leo_membership_mq_client.erl`` <https://github.com/leo-project/leo_redundant_manager/blob/master/src/leo_membership_mq_client.erl>`__
+-  https://github.com/leo-project/leo\_redundant\_manager/blob/master/src/leo\_membership\_mq\_client.erl
 
 Description
 -----------

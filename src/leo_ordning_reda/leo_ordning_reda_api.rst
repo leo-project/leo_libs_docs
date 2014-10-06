@@ -9,7 +9,7 @@ The ordning-reda's API.
 
 **References**
 
--  ```https://github.com/leo-project/leo_ordning_reda/blob/master/src/leo_ordning_reda_api.erl`` <https://github.com/leo-project/leo_ordning_reda/blob/master/src/leo_ordning_reda_api.erl>`__
+-  https://github.com/leo-project/leo\_ordning\_reda/blob/master/src/leo\_ordning\_reda\_api.erl
 
 Description
 -----------

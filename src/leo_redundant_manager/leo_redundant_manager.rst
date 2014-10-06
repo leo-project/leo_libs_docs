@@ -11,7 +11,7 @@ leo\_redaundant\_manager's server.
 
 **References**
 
--  ```https://github.com/leo-project/leo_redundant_manager/blob/master/src/leo_redundant_manager_api.erl`` <https://github.com/leo-project/leo_redundant_manager/blob/master/src/leo_redundant_manager_api.erl>`__
+-  https://github.com/leo-project/leo\_redundant\_manager/blob/master/src/leo\_redundant\_manager\_api.erl
 
 Description
 -----------

@@ -9,7 +9,7 @@ The cluster ring table's operation.
 
 **References**
 
--  ```https://github.com/leo-project/leo_redundant_manager/blob/master/src/leo_cluster_tbl_ring.erl`` <https://github.com/leo-project/leo_redundant_manager/blob/master/src/leo_cluster_tbl_ring.erl>`__
+-  https://github.com/leo-project/leo\_redundant\_manager/blob/master/src/leo\_cluster\_tbl\_ring.erl
 
 Description
 -----------

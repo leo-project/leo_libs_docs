@@ -9,7 +9,7 @@ leo\_rpc\_server is a rpc-server.
 
 **References**
 
--  ```https://github.com/leo-project/leo_rpc/blob/master/src/leo_rpc_server.erl`` <https://github.com/leo-project/leo_rpc/blob/master/src/leo_rpc_server.erl>`__
+-  https://github.com/leo-project/leo\_rpc/blob/master/src/leo\_rpc\_server.erl
 
 Description
 -----------

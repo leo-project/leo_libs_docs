@@ -11,7 +11,7 @@ The multi-datacenter cluster talble synchronizer.
 
 **References**
 
--  ```https://github.com/leo-project/leo_redundant_manager/blob/master/src/leo_mdcr_tbl_sync.erl`` <https://github.com/leo-project/leo_redundant_manager/blob/master/src/leo_mdcr_tbl_sync.erl>`__
+-  https://github.com/leo-project/leo\_redundant\_manager/blob/master/src/leo\_mdcr\_tbl\_sync.erl
 
 Description
 -----------

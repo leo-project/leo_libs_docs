@@ -9,7 +9,7 @@ The cluster conf table's operation.
 
 **References**
 
--  ```https://github.com/leo-project/leo_redundant_manager/blob/master/src/leo_cluster_tbl_conf.erl`` <https://github.com/leo-project/leo_redundant_manager/blob/master/src/leo_cluster_tbl_conf.erl>`__
+-  https://github.com/leo-project/leo\_redundant\_manager/blob/master/src/leo\_cluster\_tbl\_conf.erl
 
 Description
 -----------

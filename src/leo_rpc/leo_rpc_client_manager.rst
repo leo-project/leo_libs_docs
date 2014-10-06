@@ -11,7 +11,7 @@ leo\_rpc\_client\_conn\_manager manages rpc-clients.
 
 **References**
 
--  ```https://github.com/leo-project/leo_rpc/blob/master/src/leo_rpc_client_manager`` <https://github.com/leo-project/leo_rpc/blob/master/src/leo_rpc_client_manager>`__
+-  https://github.com/leo-project/leo\_rpc/blob/master/src/leo\_rpc\_client\_manager
 
 Description
 -----------

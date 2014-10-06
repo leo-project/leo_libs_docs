@@ -11,7 +11,7 @@ The ordning-reda server.
 
 **References**
 
--  ```https://github.com/leo-project/leo_ordning_reda/blob/master/src/leo_ordning_reda_server.erl`` <https://github.com/leo-project/leo_ordning_reda/blob/master/src/leo_ordning_reda_server.erl>`__
+-  https://github.com/leo-project/leo\_ordning\_reda/blob/master/src/leo\_ordning\_reda\_server.erl
 
 Description
 -----------

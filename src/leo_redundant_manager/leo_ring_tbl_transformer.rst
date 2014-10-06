@@ -9,7 +9,7 @@ The ring table's record transformer.
 
 **References**
 
--  ```https://github.com/leo-project/leo_redundant_manager/blob/master/src/leo_ring_tbl_transformer.erl`` <https://github.com/leo-project/leo_redundant_manager/blob/master/src/leo_ring_tbl_transformer.erl>`__
+-  https://github.com/leo-project/leo\_redundant\_manager/blob/master/src/leo\_ring\_tbl\_transformer.erl
 
 Description
 -----------

@@ -11,7 +11,7 @@ leo\_rpc\_client\_conn is a rpc-client.
 
 **References**
 
--  ```https://github.com/leo-project/leo_rpc/blob/master/src/leo_rpc_client_conn`` <https://github.com/leo-project/leo_rpc/blob/master/src/leo_rpc_client_conn>`__
+-  https://github.com/leo-project/leo\_rpc/blob/master/src/leo\_rpc\_client\_conn
 
 Description
 -----------

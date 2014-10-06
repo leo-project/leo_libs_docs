@@ -9,7 +9,7 @@ The multi-datacenter cluster info table's operation.
 
 **References**
 
--  ```https://github.com/leo-project/leo_redundant_manager/blob/master/src/leo_mdcr_tbl_cluster_info.erl`` <https://github.com/leo-project/leo_redundant_manager/blob/master/src/leo_mdcr_tbl_cluster_info.erl>`__
+-  https://github.com/leo-project/leo\_redundant\_manager/blob/master/src/leo\_mdcr\_tbl\_cluster\_info.erl
 
 Description
 -----------

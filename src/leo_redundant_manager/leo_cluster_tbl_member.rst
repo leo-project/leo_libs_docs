@@ -9,7 +9,7 @@ The cluster member table operation.
 
 **References**
 
--  ```https://github.com/leo-project/leo_redundant_manager/blob/master/src/leo_cluster_tbl_member.erl`` <https://github.com/leo-project/leo_redundant_manager/blob/master/src/leo_cluster_tbl_member.erl>`__
+-  https://github.com/leo-project/leo\_redundant\_manager/blob/master/src/leo\_cluster\_tbl\_member.erl
 
 Description
 -----------

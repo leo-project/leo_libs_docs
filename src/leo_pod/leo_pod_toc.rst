@@ -2,7 +2,7 @@
 leo_pod
 =======
 
-|leo_pod| is an Erlang worker pool manager. It is implemented no to use ETS (Erlang Term Storage). This is because we met a problem of ETS when we run it on high spec machines.
+|leo_pod| is an Erlang worker pool manager. It is implemented no to use ETS (Erlang Term Storage).
 
 .. toctree::
    :maxdepth: 3

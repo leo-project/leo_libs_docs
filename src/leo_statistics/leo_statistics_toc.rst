@@ -2,7 +2,7 @@
 leo_statistics
 ==============
 
-|leo_statistics| is a wrapper library for Basho bitcask, Basho eleveldb and Erlang ETS. They are used as local KVS in LeoFS.
+|leo_statistics| is a statistics library for LeoFS and other Erlang applications.
 
 
 .. toctree::

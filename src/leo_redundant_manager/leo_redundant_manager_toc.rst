@@ -2,7 +2,7 @@
 leo_redundant_manager
 =====================
 
-|leo_redundant_manager| monitors Gateway-node(s) and Storage-node(s) to keep availability and consistency. |leo_redundant_manager| also manages and provides routing-table(RING).
+|leo_redundant_manager| manages a routing-table and monitors registered nodes in order to keep consistency of data.
 
 .. toctree::
    :maxdepth: 3

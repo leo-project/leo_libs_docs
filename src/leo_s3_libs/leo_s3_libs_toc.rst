@@ -2,7 +2,7 @@
 leo_s3_libs
 ==============
 
-|leo_s3_libs| are S3 related libraries for LeoFS and other Erlang applications.
+|leo_s3_libs| are S3-API-related libraries for LeoFS and other Erlang applications.
 
 
 .. toctree::
